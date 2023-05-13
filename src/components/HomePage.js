@@ -8,7 +8,7 @@ import Fidelity from "../assets/Fidelity-logo.png";
 import Gotv from "../assets/gotv-nigeria-logo.png";
 import Man from "../assets/image_1.png";
 import { BsCheckCircle } from "react-icons/bs";
-import Contact from "./Contact";
+import Tab from "./Tab";
 import Footer from "./Footer";
 
 const HomePage = () => {
@@ -188,7 +188,7 @@ const HomePage = () => {
         </div>
       </div>
     </div>
-    <Contact />
+    <Tab />
     <Footer />
     </>
     
